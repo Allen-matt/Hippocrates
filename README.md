@@ -1,4 +1,4 @@
-# Hippocrates
+# Hippocrates by Team Zephyr
 named after the father of modern medicine
 
 The flow of our model is here:
