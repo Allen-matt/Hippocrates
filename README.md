@@ -8,12 +8,19 @@ This is a command-line application that uses the VGG16 model to classify an inpu
 Prerequisites:
 
 Python 3.6 or higher
+
 TensorFlow 2.x
+
 Keras 2.x
+
 Installation
+
 Clone or download this repository.
+
 Install the required packages using pip:
+
 Copy code
+
 pip install -r requirements.txt
 
 Usage:
