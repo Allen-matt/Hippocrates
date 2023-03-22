@@ -6,14 +6,11 @@ VGG16 Image Classifier:
 This is a command-line application that uses the VGG16 model to classify an input image into one of four categories: COVID, NOT COVID, NORMAL, or PNEUMONIA.
 
 Prerequisites:
-
 Python 3.6 or higher
-
 TensorFlow 2.x
-
 Keras 2.x
 
-Installation
+Installation:
 
 Clone or download this repository.
 
