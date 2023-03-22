@@ -19,11 +19,7 @@ Installation:
 
 Clone or download this repository.
 
-Install the required packages using pip:
-
-Copy code
-
-pip install -r requirements.txt
+Install the required packages
 
 
 Usage:
