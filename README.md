@@ -22,7 +22,7 @@ Clone or download this repository.
 Install the required packages
 
 
-#Usage:
+Usage:
  
 To run the application, navigate to the directory where you saved the predict.py file and run the following command:
 
